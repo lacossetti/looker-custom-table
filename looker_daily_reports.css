@@ -1,11 +1,11 @@
 table.reportTable th {
-  background: #1c3a70
+  background-color: #9185F5;
 }
 
 td:nth-child(odd) {
-  background-color: #9185F5;
- }
+  background-color: #ffffff;
+}
  
  td:nth-child(even) {
  background-color:#cccccc;
-   }
+}
